@@ -1,0 +1,1 @@
+Scraper for Beth Ashton grabbing links to Ofsted reports for children's homes. A "later scraper":https://scraperwiki.com/scrapers/inspectionreports_test2/ uses the API to loop through these links and look for particular phrases. 
